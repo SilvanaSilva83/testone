@@ -1,0 +1,60 @@
+/* External styesheet*/
+
+h1
+{
+    text-shadow: -2px -2px 4px greenyellow;
+    font-size: 200%; color: red;
+}
+
+header{
+    background-color:#B2B2B2;
+    padding: 10px;
+}
+
+body {
+    font-family: Verdana;
+    margin: 0;}
+
+img {
+    width: 100%;
+}
+
+nav {
+    background-color: #000000;
+    padding: 5px;
+}
+
+nav ul {
+    text-align: center;
+    font-size: 1.2em;
+    padding: 15px;
+}
+
+nav ul li {   
+    list-style-type: none;
+    background-color: #B2B2B2;
+    display: inline;
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid red;
+    border-radius: 10px;   
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li:hover{
+    background-color: rgb(112. 27. 186);
+}
+
+footer{
+    padding: 0;
+    margin: 0;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: #000000;
+}
+
